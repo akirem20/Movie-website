@@ -1,8 +1,40 @@
-# React + Vite
+# Movie App
+![Movie-app](image/Movie.png)
+This is a Trending Movie App that fetches and displays popular movies using an API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript, API integration
+- Framework: React (with Vite)
+- Package Manager: npm
+- Styling: CSS
+- Linting: ESLint
+- Build Tool: Vite
 
-Currently, two official plugins are available:
+## Features
+- Fetches and displays trending movies using an API
+- Search functionality to find movies by title
+- Responsive design for mobile and desktop users
+- Movie details page with additional information
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Trending-Movie.git
+
+2. Navigate to the project folder:
+   ```bash
+   cd Trending-Movie
+   ```
+   3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the app:
+   ```bash
+   npm run dev
+   ```
+## Contributing
+Feel free to submit pull requests to improve the project!
+
+## License
+This project is licensed under the MIT License.
