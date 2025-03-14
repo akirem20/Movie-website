@@ -33,6 +33,9 @@ This is a Trending Movie App that fetches and displays popular movies using an A
    ```bash
    npm run dev
    ```
+## API Integration
+This project uses an external API to fetch movie data. Make sure to configure your API key inside the project.
+
 ## Contributing
 Feel free to submit pull requests to improve the project!
 
